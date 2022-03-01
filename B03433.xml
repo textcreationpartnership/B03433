@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A farther account of the siege of Lymerick with a relation of the taking of Castel-Connel, Carrick-Gunnel, and the island of Buffin. : As also, of Coll. Wooseley's pursuing of Sarsefield, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03433</idno>
+            <idno type="STC">Wing F526A</idno>
+            <idno type="STC">ESTC R202001</idno>
+            <idno type="EEBO-CITATION">49521467</idno>
+            <idno type="OCLC">ocm 49521467</idno>
+            <idno type="VID">174129</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174129)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2666:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A farther account of the siege of Lymerick with a relation of the taking of Castel-Connel, Carrick-Gunnel, and the island of Buffin. : As also, of Coll. Wooseley's pursuing of Sarsefield, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Smart,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Licens'd, September the 10th."</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wolseley, William, 1640?-1697.</term>
+               <term>Sarsfield, Patrick, --  Earl of Lucan, d. 1693.</term>
+               <term>Limerick (Limerick, Ireland) --  History --  Siege, 1690 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:174129:1"/>
+            <!-- PDF PAGE 4 -->
+            <head>A Farther ACCOUNT OF THE Siege of Lymerick: WITH A RELATION OF THE Taking of Caſtle-<hi>Connel, Carrick-Gunnel,</hi> and the Iſland of <hi>Buffin.</hi>
+            </head>
+            <head type="sub">AS ALSO, Of Coll. <hi>Wooſeley</hi>'s purſuing of <hi>Sarſeſield,</hi> &amp;c.</head>
+            <argument>
+               <p>LICENS'D, <date>
+                     <hi>September</hi> the 10th.</date>
+               </p>
+            </argument>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>
+                        <gap reason="illegible: in gutter" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the <hi>Camp before Lymerick,</hi> 
+                        <date>
+                           <hi>Septemb.</hi> the 2<hi>d.</hi> 1691.</date>
+                     </dateline>
+                  </opener>
+                  <p>WE having beat the Enemy from <hi>Ireton</hi>'s <hi>Fort,</hi> as likewiſe from the Old Chappel, with the Ad<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap> Fort, together with ſeveral other <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Forts, and Out-works, made by <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>French</hi> Ingineers laſt Winter, (ac<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>ng as you have already heard.)</p>
+                  <p>On the 26<hi>th. ult.</hi> at Night, we broke Ground; our Approaches Advancing ve<g ref="char:EOLhyphen"/>ry ſucceſsfully, with very little loſs.</p>
+                  <p>On the 27th. by Break of Day, the Prince of <hi>Heſs-Darmstadt,</hi> Collonel <hi>Tiffin,</hi> and Collonel St. <hi>John</hi>'s Regiments, with about <hi>ſeven hundred</hi> Horſe and Dra<g ref="char:EOLhyphen"/>goons, with <hi>five</hi> Pieces of Canon, Marched to take in <hi>Caſtle-Connel;</hi> where the Enemy have a great Garriſon; and another Party, with Four Guns, March<g ref="char:EOLhyphen"/>ed to take in Three other Caſtles,
+<pb n="2" facs="tcp:174129:2"/>
+                     <!-- PDF PAGE 5 -->
+wherein the Enemy have Garriſons down the River.</p>
+                  <p>Very early this Morning, the Enemy fired from two Guns they had drawn down below the Town, on our left; which Obliged us to Draw a little fur<g ref="char:EOLhyphen"/>ther off, till we could better ſecure our Men.</p>
+                  <p>This Morning, Orders were given for Arming One Thouſand Granadoes, and Six Hundred Bombs; which were many of them, ready to Play by Eight of the Clock at Night.</p>
+                  <p>This Day, <hi>Carrick Gunnel</hi> Caſtle, whoſe. Garriſon was 130 Men, and Two Cap<g ref="char:EOLhyphen"/>tains, Commanded by one <hi>Archbold,</hi> Sur<g ref="char:EOLhyphen"/>rendered upon Mercy; and the Priſoners were immediately put into the <hi>Provoe</hi>'s Cuſtody.</p>
+                  <p>This Day, likewiſe, our Fleet, being Eighteen Sail Compleat, came up the <hi>Shannon,</hi> towards <hi>Lymerick,</hi> under the Command of Captain <hi>Coale</hi> ‡ They fired ſo briskly, as they paſſed by the Enemies ſmall Camp in <hi>Cother<gap reason="illegible: bleedthrough" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ough,</hi> that they made moſt of them ſcamper to the Adjacent Hills. Our Ships came to an Anchor, two Miles below the Town, where they will be aſſiſtant in Battering the Place.</p>
+                  <p>The 28th. This Morning the General went on Board the Fleet, which he with<g ref="char:EOLhyphen"/>in leſs than three Miles of the Town; and after having had a ſhort Conference with Captain <hi>Coale,</hi> he returned again on Shar, to the Camp.</p>
+                  <p>The 29th. We had an Account this Day, That the Iſland of <hi>Buffin</hi> baving Ca<g ref="char:EOLhyphen"/>pitulated to ſurrender, Captain <hi>Dunbar</hi> who is ordered to be Governour of that <hi>Iſſand,</hi> was Sailed thither, with a De<g ref="char:EOLhyphen"/>tatchment of Sir <hi>Henry Bellaſſis</hi> Regi<g ref="char:EOLhyphen"/>ment, to Garriſon it: Likewiſe, That the Earl of <hi>Granand</hi> with one Thouſand of the <hi>Militia</hi> of <hi>Dublin,</hi> being joyned with many Regiments of the <hi>County-Mili<g ref="char:EOLhyphen"/>tia,</hi> and ſome Regular Troops, had paſ<g ref="char:EOLhyphen"/>ſed the <hi>Shannon</hi> at <hi>Athlone,</hi> in their way to <hi>Slego,</hi> in order to reduce that Place: This Afternoon we began to Play with our Mortars,</p>
+                  <p>The 30th. This Day we began to play from our ſeveral Batteries we raiſed from the Forts we took from the Enemy.</p>
+                  <p>We hear, That <hi>O Donnel,</hi> with his Ser<g ref="char:EOLhyphen"/>vants, are gone to <hi>Galway,</hi> in order to ſurrender; but his Party endeavour to make a Head of themſelves.</p>
+                  <p>The 31th. Great Numbers of Deſer<g ref="char:EOLhyphen"/>ters come daily into our Camp; who giv<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> an Account, that our Two Batteries, raiſed on the Left of the Town, have done conſiderable Execution, by ſetting Fire to the Town in three ſeveral Pla<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </p>
+                  <p>
+                     <hi>Sept.</hi> 1. This Day, two Captaint, th<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Lieutenants, and two Enſigns came o<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> to us. The Enemy have been very <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ring as well of their Shot, as their S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<g ref="char:EOLhyphen"/>lies; which makes us believe, (and, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the late Deſerters report,) that they are in much want of Ammunition.</p>
+                  <p>The Caſtle of <hi>Connel</hi> ſurrendred to the Prince of <hi>Heſs-Dermſtadt;</hi> the Garriſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> conſiſting of <hi>Four hundred</hi> Men, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſent Priſoners to <hi>Clonmel,</hi> under <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> Guard.</p>
+                  <p>
+                     <hi>Sept.</hi> 2. Col. <hi>Wolſeley,</hi> with a <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Party of <hi>Five hundred</hi> Horſe, and ſome Troops of Dragoons, <hi>&amp;c.</hi> is gone from the Camp to <hi>Killaloo;</hi> where we have <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Account, <hi>Sarsfield</hi> is roving with his Par<g ref="char:EOLhyphen"/>ties.</p>
+                  <p>Our Guns from the ſeveral <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> continued to Play laſt Night, and all <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Day inceſſantly; and, as we hear by D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſerters juſt now come into our Camp with very great Succeſs; one of the<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> being chiefly againſt <hi>Thom<gap reason="illegible" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap>
+                     </hi> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> which we hope ſpeedily to batter down by which means, we ſhall cut off <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Communication between the <hi>Iriſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Engliſh</hi> Town of <hi>Lymerick.</hi>
+                  </p>
+                  <p>We hear, That a Party of our M<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> are ordered to Attack <hi>King's <gap reason="illegible" extent="4+ letters">
+                           <desc>••••…</desc>
+                        </gap>d,</hi> a<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Caſtle thereunto belonging.</p>
+                  <p>We hear likewiſe, That the Garriſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in <hi>Lymerick,</hi> are buoyed up with <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Pretence of a Prophecy they have, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the <hi>Engliſh</hi> Army in this War, ſhould <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>duce all <hi>Ireland,</hi> but <hi>Lymerick;</hi> and th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> then they ſhould not only preſerve <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſaid place, but retake all again.</p>
+                  <p>We doubt not, but in Three or F<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Days, we ſhall be able to make a Bre<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> in the VValls, by our Batteries, that Men may enter.</p>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>P. Smart,</hi> 1691.</p>
+            <pb n="2" facs="tcp:174129:3"/>
+            <!-- PDF PAGE 6 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
